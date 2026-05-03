@@ -1,0 +1,26 @@
+[
+    {
+        "id": "msg_001",
+        "title": "Message from Anonymous001",
+        "content": "Hey! Just checking in. Hope you're having a great day!",
+        "received": "5 minutes ago"
+    },
+    {
+        "id": "msg_002",
+        "title": "Message from SecretSender",
+        "content": "Your posts are always so inspiring. Keep it up!",
+        "received": "1 hour ago"
+    },
+    {
+        "id": "msg_003",
+        "title": "Message from HiddenFriend",
+        "content": "What’s one habit that changed your life?",
+        "received": "12 hours ago"
+    },
+    {
+        "id": "msg_004",
+        "title": "Message from Unknown",
+        "content": "Got any movie recommendations for the weekend?",
+        "received": "2 days ago"
+    }
+]
